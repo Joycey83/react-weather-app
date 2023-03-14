@@ -18,7 +18,7 @@ function Weather() {
           </div>
         </div>
       </form>
-      <h1>New York</h1>
+      <h1>New York, NY, USA</h1>
       <ul>
         <li>Tuesday 11:00</li>
         <li>Mostly Cloudy</li>
