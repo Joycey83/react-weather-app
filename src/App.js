@@ -21,9 +21,9 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Open sourced on Github
+            Open sourced on Github {""}
           </a>
-          and
+          and {""}
           <a
             href="https://spontaneous-churros-0ec088.netlify.app/"
             target="_blank"
