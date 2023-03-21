@@ -25,7 +25,7 @@ function App() {
           </a>
           and {""}
           <a
-            href="https://spontaneous-churros-0ec088.netlify.app/"
+            href="https://myreactweatherapp88.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
