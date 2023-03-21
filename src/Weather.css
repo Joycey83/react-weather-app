@@ -1,12 +1,11 @@
 .Weather {
-  border: 1px solid #e2e2e2;
-  color: rgba(135, 135, 135);
+  color: #000000;
   padding: 16px;
   border-radius: 4px;
 }
 
 .Weather h1 {
-  color: #6e6e6e;
+  color: #00008b;
   font-size: 24px;
   font-weight: 100;
   margin: 20px 0 0 0;

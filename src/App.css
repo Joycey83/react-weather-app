@@ -1,6 +1,11 @@
 .App {
   max-width: 600px;
   margin: 30px auto;
+  background: linear-gradient(
+    90deg,
+    rgb(147, 228, 241) 0%,
+    rgb(102, 202, 241) 100%
+  );
 }
 
 .App footer {
