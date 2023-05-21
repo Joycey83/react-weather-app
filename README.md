@@ -32,3 +32,9 @@ My approach for designing this Weather application was to create it so that it i
 3. Install dependencies with npm install
 4. Start the development server with npm start
 5. Open your browser and navigate to http://localhost:3000
+
+# Frameworks & Programs Used
+
+- Google Fonts One: [Roboto Mono]()
+- Animated weather Icons: [NPM react-animated-weather](https://www.npmjs.com/package/react-animated-weather/v/4.0.1)
+- Weather API used: [Openweathermap.org](https://openweathermap.org/api)
