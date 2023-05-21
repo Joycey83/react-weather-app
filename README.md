@@ -35,6 +35,6 @@ My approach for designing this Weather application was to create it so that it i
 
 # Frameworks & Programs Used
 
-- Google Fonts One: [Roboto Mono]()
+- Google Font used was the default font which is Arial
 - Animated weather Icons: [NPM react-animated-weather](https://www.npmjs.com/package/react-animated-weather/v/4.0.1)
 - Weather API used: [Openweathermap.org](https://openweathermap.org/api)
